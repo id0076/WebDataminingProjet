@@ -1,4 +1,4 @@
-package ensai.webdataminingProjet.interfaces;
+package indexFichierInverse1.interfaces;
 
 public interface ElementI {
 
